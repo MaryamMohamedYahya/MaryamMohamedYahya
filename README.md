@@ -2,6 +2,9 @@
 
 [![An image of @maryammohamedyahya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryammohamedyahya)](https://holopin.io/@maryammohamedyahya)
 
+
+is:pr is:merged author:@me 
+
 <!--
 **MaryamMohamedYahya/MaryamMohamedYahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
