@@ -5,6 +5,7 @@
 
 is:pr is:merged author:@me 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=maryammohamedyahya&border_radius=&background=ACEEBB&border=116329&stroke=116329&sideNums=072911&sideLabels=072911&dates=072911&hide_current_streak=true)](https://git.io/streak-stats)
 <!--
 **MaryamMohamedYahya/MaryamMohamedYahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
