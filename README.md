@@ -5,7 +5,8 @@
 
 is:pr is:merged author:@me 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maryammohamedyahya&border_radius=&background=ACEEBB&border=116329&stroke=116329&sideNums=072911&sideLabels=072911&dates=072911&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maryammohamedyahya&show_icons=true&custom_title=GitHub%20Stats&card_width=400&rank_icon=percentile&title_color=2da44e&text_color=2da44e&theme=transparent&icon_color=2da44e&border_color=2da44e&include_all_commits=true&hide=stars,prs&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=maryammohamedyahya&card_height=150&card_width=345&theme=transparent&border=2DA44E&stroke=2DA44E&sideNums=2DA44E&sideLabels=2DA44E&dates=2DA44E&hide_current_streak=true)](https://git.io/streak-stats) 
+
 <!--
 **MaryamMohamedYahya/MaryamMohamedYahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
